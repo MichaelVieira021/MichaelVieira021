@@ -1,39 +1,50 @@
-<div align="center" style="display: flex">
-<img src="./img/mago.png" alt="Ícone do SkillSwap" width="60" height="60">
-<h3 style="margin-bottom: 0;">Hello! I'm Michael Vieira.</h1>
+<div align="center">
+  <img 
+    src="./img/mago.png" 
+    alt="mago" 
+    width="80" 
+    height="80"
+  />
+<h1>Michael de Paula Vieira</h1>
+
+  <p style="margin-top: 0; padding-top: 0;">
+    <code>Backend Java Developer</code> • 
+    <code>Fullstack</code> • 
+    <code>Software Engineer</code>
+  </p>
 </div>
 
 <div align="center">
-    <a href="https://discord.gg/Jd6YYxM6R" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="mailto:Michael21rj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/michaelvieira021/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:contato@michaelvieira.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/michaelvieira021/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/MichaelVieira021" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://michaelvieira.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="40"/></a>
 </div>
+
+<br/>
+<div align="center">
+  <p>
+      Desenvolvedor Backend com experiência na construção de APIs RESTful utilizando Java 11+ e Spring Boot. Atuo com bancos de dados relacionais, testes unitários e Clean Architecture. Minha trajetória em projetos Fullstack e Mobile me proporcionou uma visão holística do ciclo de vida de software, garantindo uma compreensão completa do desenvolvimento de ponta a ponta.
+  </p>
+</div>
+
+<br/>
 
 <div align="center">
-    <p>Seja bem-vindo ao meu perfil!! Aqui você ira encontrar um pouco sobre meu trabalho como desenvolvedor FullStack. Minha caixa de ferramentas inclui PostgreSQL, Eclipse, Visual Studio Code, Spring Boot e Insomnia. Utilizo diferentes tecnologias para desenvolvimento.</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,postgres,mysql,aws" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,ts,js,tailwind" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,firebase" />
+  </a>
+<br><br>
+  <div>
+    <p><strong>Bacharelado em Engenharia de Software – Unicesumar (2024 – 2028)</strong></p>
+    <p><strong>Certificação:</strong> Full Stack Development – Firjan 2023</p>
+  </div>
 </div>
-
-
-<!--<div align="center" style={overflow: hidden; border-radius: 100%;}">
-    <img src="./img/3.jpeg" alt="Ícone do SkillSwap" width="120" height="120"">
-</div>-->
-
-<hr/>
-<div align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-    <img src="https://img.shields.io/badge/React Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
-</div>  
-  <br/>
-  
-<div align="center" style="margin-top: 45px">
-    <img height="140em" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=MichaelVieira021&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelVieira021&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
-  
-![Snake animation](https://github.com/MichaelVieira021/MichaelVieira021/blob/output/github-contribution-grid-snake.svg)
-
